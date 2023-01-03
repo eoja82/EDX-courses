@@ -20,7 +20,8 @@
     "fastify": "^3.29.4",
     "fastify-cli": "^4.4.0",
     "fastify-cors": "^6.1.0",
-    "fastify-plugin": "^3.0.0"
+    "fastify-plugin": "^3.0.0",
+    "fastify-websocket": "^3.2.2"
   },
   "devDependencies": {
     "tap": "^16.1.0"
